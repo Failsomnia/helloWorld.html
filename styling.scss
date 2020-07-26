@@ -1,0 +1,26 @@
+$headingcolor:  cornflowerblue; 
+$paragraphcolor: crimson;
+$textstyle : 100% New Century;
+$backgroundColor : antiquewhite;
+    
+body {
+    background-color: $backgroundColor;
+
+}
+h1 { 
+        font-style: oblique;
+        font-family: $textstyle;
+        color: $headingcolor;
+ }
+
+p {
+        font-style: normal;
+        font-size: 30px;
+        font-family:  $textstyle;
+        color: $paragraphcolor;
+
+}
+
+    
+
+ 
