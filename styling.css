@@ -1,32 +1,46 @@
+@media (min-width: 600px) {
+  body {
+    background-color: cadetblue;
+  }
+}
+@media (max-width: 599px) {
+  body {
+    background-color: darkcyan;
+  }
+}
 body {
   background-color: antiquewhite;
 }
 
 h1 {
   font-style: oblique;
-  font-family: 100% New Century;
+  font-family: 100% "Arial Black", Gadget, sans-serif;
   color: cornflowerblue;
 }
 
 p {
   font-style: normal;
-  font-size: 25px;
-  font-family: 100% New Century;
+  font-size: 35px;
+  font-family: 100% "Arial Black", Gadget, sans-serif;
   color: crimson;
-  
 }
 
-  #photo1{
-        width: 550px;
-        height: 700px;
-        float: left
-        }
-        
-        #introP{
-        padding-left: 30px;
-        padding-right: 30px;
-        font-size: 20;
-        }
+#photo1 {
+  width: 550px;
+  height: 700px;
+  float: left;
+}
 
-        
+#introP {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+}
+
+.tasks {
+  font-size: 25px;
+  font-family: 100% "Arial Black", Gadget, sans-serif;
+  color: crimson;
+}
+
 /*# sourceMappingURL=styling.css.map */
