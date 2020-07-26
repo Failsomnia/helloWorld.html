@@ -10,9 +10,23 @@ h1 {
 
 p {
   font-style: normal;
-  font-size: 30px;
+  font-size: 25px;
   font-family: 100% New Century;
   color: crimson;
+  
 }
 
+  #photo1{
+        width: 550px;
+        height: 700px;
+        float: left
+        }
+        
+        #introP{
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 20;
+        }
+
+        
 /*# sourceMappingURL=styling.css.map */
